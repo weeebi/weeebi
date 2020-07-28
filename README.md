@@ -1,4 +1,5 @@
-### poggers
+### Mad stats
+![Stats:](https://github-readme-stats.vercel.app/api?username=weeebi&theme=dracula&show_icons=true)
 
 <!--
 **weeebi/weeebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
