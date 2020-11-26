@@ -1,6 +1,6 @@
 <!-- ### Mad stats -->
-![Stats:](https://github-readme-stats.vercel.app/api?username=kfuy&count_private=true&hide=contribs,prs&title_color=dd6387&bg_color=ffffff&icon_color=dd6387&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfuy&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
+![Stats:](https://github-readme-stats.vercel.app/api?username=weebi&count_private=true&hide=contribs,prs&title_color=dd6387&bg_color=ffffff&icon_color=dd6387&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weebi&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **weeebi/weeebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
